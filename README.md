@@ -18,7 +18,7 @@
 <a href="https://www.leetcode.com/navmeetsekhon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="navmeetsekhon" height="30" width="40" /></a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)]([https://skillicons.dev](https://www.linkedin.com/in/navmeet-singh-52a749255/))
+[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/navmeet-singh-52a749255/)
 
 <h3 align="left">Languages and Tools:</h3>
 
