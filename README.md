@@ -7,7 +7,9 @@
 
 👨‍🎓 I am pursuing MCA from G.N.D.E.C.
 
-🤔 I'm looking to collaborate on Opensource projects
+🤔 I'm looking to collaborate on Opensource projects.
+
+I’m currently learning C++.
 
 🔭 I’m currently working on [order-management-system](https://github.com/navmeetsekhon/orderManagementApp.git)
 
