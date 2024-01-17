@@ -9,7 +9,7 @@
 
 🤔 I'm looking to collaborate on Opensource projects.
 
-I’m currently learning C++.
+🌱 I’m currently learning C++.
 
 🔭 I’m currently working on [order-management-system](https://github.com/navmeetsekhon/orderManagementApp.git)
 
