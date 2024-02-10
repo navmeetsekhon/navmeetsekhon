@@ -11,7 +11,7 @@
 
 🌱 I’m currently learning C++.
 
-🔭 I’m currently working on [order-management-system](https://github.com/navmeetsekhon/orderManagementApp.git)
+🔭 I’m currently working on [pizza-shop-react](https://github.com/navmeetsekhon/pizza-shop-react.git)
 
 📫 How to reach me **navmeetsekhon@gmail.com**
 
@@ -20,7 +20,7 @@
 <a href="https://www.leetcode.com/navmeetsekhon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="navmeetsekhon" height="30" width="40" /></a>
 </p>
 
-[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/navmeet-singh-52a749255/)
+[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/navmeetsingh/)
 
 <h3 align="left">Languages and Tools:</h3>
 
